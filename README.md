@@ -89,7 +89,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/Enox5600/Unlimited-Filter-Bot
+git clone https://github.com/Enox5600/unlimited_filter
 cd Unlimited-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
